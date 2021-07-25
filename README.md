@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# underrun
 
-You can use the [editor on GitHub](https://github.com/widderslainte/underrun/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_don't trust the brain eaters_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of Contents
 
-### Markdown
+### Character Creation
+[Introduction](01_introduction/README.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Character Creation](02_character_creation/README.md)
 
-```markdown
-Syntax highlighted code block
+[Strains](03_ancestries/README.md)
 
-# Header 1
-## Header 2
-### Header 3
+[Classes](04_classes/README.md)
 
-- Bulleted
-- List
+[Character Elements](05_character_elements/README.md)
 
-1. Numbered
-2. List
+[Equipment & Money](06_equipment_money/README.md)
 
-**Bold** and _Italic_ and `Code` text
+### Playing the Game
 
-[Link](url) and ![Image](src)
-```
+[Adventuring](07_adventuring/README.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Encounters](08_encounters/README.md)
 
-### Jekyll Themes
+[Magic](09_magic_README.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/widderslainte/underrun/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Miscellania](10_misc/README.md)
 
-### Support or Contact
+### Running the Game  
+[Campaigns](21_campaigns/README.md)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Treasure](22_treasure/README.md)
+
+[Grafts](23_grafts/README.md)
+
+[Runs](24_runs/README.md)
+
+[Setting](40_setting/README.md)
+
+### Appendices  
+[Monsters](31_monsters/README.md)  
+
+
+## Detailed Table of Contents
+
+(forthcoming)
+
