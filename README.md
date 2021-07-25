@@ -2,9 +2,9 @@
 
 _don't trust the brain eaters_
 
-## Table of Contents
+After the royal family was killed, their jewels stolen, and Sun Isle Kingdoms leveled by the Deep Elves, the Sidhe are out for blood. The Dwarven nations have finally replenished their populations and dream of retaking their kingdoms below the surface. The Black Network blew up the Emporer's Palace leaving a giant crater between the smuggler's Bonedock and Halls of the Netherpeak. The Gnomes of the Spiral Hillshave become addicted to exotic dreamspices of the East and now sell their steam-powered mechanical monstrosities to fund their habit. Roam the subterranean cities and caves and hire on for assassinations between Deep Elf clans. Augmentyour psionic powers through braineater-flesh biografts. Grab your handcrossbow, katana, and mirror-spectacles.
 
-### Character Creation
+### Creating an underrunner
 [Introduction](01_introduction/README.md)
 
 [Character Creation](02_character_creation/README.md)
@@ -17,7 +17,7 @@ _don't trust the brain eaters_
 
 [Equipment & Money](06_equipment_money/README.md)
 
-### Playing the Game
+### Running in the Depths
 
 [Adventuring](07_adventuring/README.md)
 
@@ -27,7 +27,7 @@ _don't trust the brain eaters_
 
 [Miscellania](10_misc/README.md)
 
-### Running the Game  
+### Secrets of the World Below  
 [Campaigns](21_campaigns/README.md)
 
 [Treasure](22_treasure/README.md)
@@ -36,13 +36,12 @@ _don't trust the brain eaters_
 
 [Runs](24_runs/README.md)
 
-[Setting](40_setting/README.md)
+### Setting
+[Setting Intro](40_setting/README.md)
 
 ### Appendices  
 [Monsters](31_monsters/README.md)  
 
 
-## Detailed Table of Contents
 
-(forthcoming)
 
