@@ -1,10 +1,10 @@
 
 Social Groups
-* Gorup Type
+* Group Type
 * Conflict Source
 * Rival Type
 
-For Each Groyp
+For Each Group
 * Dice 
 * NPCs 
 * Other  NPCs 
