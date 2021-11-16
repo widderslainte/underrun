@@ -5,7 +5,7 @@
 * Bonedock
 * Braineaters
 * Deep Elf
-* Deep Elf clans
+* Deep Elf houses
 * Dwarven nations
 * the Emperor
 * Gnomes
