@@ -1,12 +1,11 @@
 # Generators
 
-* [Noble Houses](./houses.md)
-* Merchant Clans
-* Vat Fields
-* Gladatorial Schools
-
-
-* Factions
-* Runs
+* [Cities](./cities.md)
 * Conflicts
-* Cities
+* Factions
+* Gladatorial Schools
+* Merchant Clans
+* [Noble Houses](./houses.md)
+* Runs
+* Vat Fields
+

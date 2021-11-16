@@ -3,10 +3,11 @@
 The most common employer are Deep Elf noble houses struggling against one another.  Use the tables below to generate a couple.  Note: if you've already laid out faction and power structures for your city, you may need to overlook or justify some of the specific table results for wealth and status.
 
 ## Status
+
 | Roll | Status                |       |
 |------|-----------------------|-------|
-| 1    | Ruling  | 
-| 2    | Upper  |
+| 1    | Ruling  | |
+| 2    | Upper  | 
 | 3    | Upper  |
 | 4    | Middle  |
 | 5    | Middle  |
@@ -17,7 +18,10 @@ The most common employer are Deep Elf noble houses struggling against one anothe
 | 10   | Lower, non-aspiring   |
 
 * Once your rolls generate a second "Ruling" status, shift to "Upper" and mark a Vendetta against the current Ruling House.
+
+
 ## Assets
+
 | Roll | Assets                 |       |
 |------|------------------------|-------|
 | 1    | Alchemist              | 
@@ -43,6 +47,7 @@ The most common employer are Deep Elf noble houses struggling against one anothe
 
 
 ## Description
+
 | Roll | Description |       |
 |------|--------|-------|
 | 1    |   | 
@@ -57,6 +62,7 @@ The most common employer are Deep Elf noble houses struggling against one anothe
 | 10   |    |
 
 ## House Name Generator
+
 | Roll | First Element | Second Element       |
 |------|---------------|----------------------|
 | 1    | torm        | tor
