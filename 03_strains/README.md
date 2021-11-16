@@ -6,13 +6,16 @@ _placeholder_
 * Cattle
 
 ### Local Origins
-* Mixed Deep Elves - this is a delicate topic and would advise any group to discuss how this is handled in advance.  
+* Deep Elves Ancestry - this is a delicate topic and would advise any group to discuss how this is handled in advance.  This strain assumes Deep Elf ancestors, but not significant enough to be accepted by other Deep Elves under normal circumstances.  
 * Fish People
 * Batfolk
 * Brain Eaters
 * Dverger
 * Fungusfolk
-* Neiberlung
+* Neiberlung 
+* Goblings
 
 ## Non Player Strains
 * Deep Elves - myrkálfar
+
+#### Why Not Deep Elf Player Characters?

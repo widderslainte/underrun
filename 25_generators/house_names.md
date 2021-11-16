@@ -1,0 +1,14 @@
+torm        tor
+ever        hate
+des         pana
+no          quar
+al          eval
+kil         sek
+go          deep
+eil         servs
+erel        hei
+cin         lu
+char        urd
+eld         khal
+ven         dra
+lot         cer
