@@ -7,8 +7,8 @@ _placeholder_
 
 ### Local Origins
 * Deep Elves Ancestry - this is a delicate topic and would advise any group to discuss how this is handled in advance.  This strain assumes Deep Elf ancestors, but not significant enough to be accepted by other Deep Elves under normal circumstances.  
-* Fish People
-* Batfolk
+* Dagonites - Fish People
+* Sotz - Batfolk
 * Brain Eaters
 * Dverger
 * Fungusfolk
