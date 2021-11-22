@@ -21,7 +21,7 @@
 * npc: role, spice, name, motive
 * random connections: npc, tyring to, npc
 * rumours
-* randome encounters: encounter, location
+* random encounters: encounter, location
 * neighborhoods: wealth, chracter, features, name
 * small communities: p106, p171, p 249
 * sample hex
