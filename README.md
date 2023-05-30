@@ -43,7 +43,7 @@ Roam the subterranean cities and caves and hire on for assassinations between De
 
 [Encounters](08_encounters/README.md)
 
-[Magic](09_magic_README.md)
+[Magic](09_magic/README.md)
 
 [Miscellania](10_misc/README.md)
 

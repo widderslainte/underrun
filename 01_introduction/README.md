@@ -12,12 +12,12 @@ This game wears it's influences on it's sleeves.  The initial rules will be a sh
 ## Where to Start
 Overwhelmed by a partially function table of contents?  Want to dive into the inherent depravity and moral cesspool of the setting?  What to see the character bling and stupid rules I'm cobbling together?  What the hell are some of these sanitized intellectual property terms?  Try a few of these pages: 
 
-[Campaigns](21_campaigns/README.md)
+[Campaigns](../21_campaigns/README.md)
 
-[Setting Intro](40_setting/README.md)
+[Setting Intro](../40_setting/README.md)
 
-[Creating an underrunner](02_character_creation/README.md)
+[Creating an underrunner](../02_character_creation/README.md)
 
-[Life in the Depths](07_adventuring/README.md)
+[Life in the Depths](../07_adventuring/README.md)
 
-[Glossary](10_misc/glossary.md)
+[Glossary](../10_misc/glossary.md)
