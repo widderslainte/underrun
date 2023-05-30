@@ -110,7 +110,7 @@ The most common employer are Deep Elf noble houses struggling against one anothe
 
 | Roll | Description                                            |       |
 |------|--------------------------------------------------------|-------|
-|    1 | | |
+|    1 |                                                        |       |
 |    2 | | |
 |    3 | | |
 |    4 | | |
