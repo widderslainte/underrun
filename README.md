@@ -8,11 +8,9 @@ Roam the subterranean cities and caves of the World Below and hire on for assass
 
 ## Preview
 
-### Secrets of the World Below  
+### Secrets of the World Below
+
 * [Introduction](01_introduction/README.md)
 * [Glossary](10_misc/glossary.md)
 * [Life in the Depths](07_adventuring/README.md)
-
-
-
-
+s
