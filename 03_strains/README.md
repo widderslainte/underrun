@@ -1,5 +1,3 @@
-_placeholder_
-
 ## Sample Strains
 ### Surface Origins
 * Sidhe
